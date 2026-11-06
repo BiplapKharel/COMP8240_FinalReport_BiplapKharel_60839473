@@ -116,6 +116,9 @@ call :step "23 Tweets: emoji labels vs reading, 200 random tweets" ^
 call :step "24 Tweets: emoji labels vs reading, 450 tweets" ^
   %PY% code\check_emoji_labels.py --hand data\tweets\hand_labels_450.csv --out %OUT%\tweets\emoji_label_check_450.md || goto :fail
 
+call :step "26 Tweets: author's own labels vs first reading and emoji, 100 tweets" ^
+  %PY% code\compare_human_reading.py --data data\tweets\human_check_100.csv --out %OUT%\tweets\human_check_100.md || goto :fail
+
 call :step "25 Tweets: baseline vs EDA  (~20 min)" ^
   %PY% code\run_eda_cnn.py split --name tweets --glove "%GLOVE%" --train data\tweets\train.txt --val data\tweets\dev.txt --test data\tweets\test.txt --sizes %TW_SIZES% --seeds %SEEDS% --max_len 40 --outdir %OUT%\tweets || goto :fail
 

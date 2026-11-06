@@ -51,6 +51,7 @@ report) to `results_report_backup\`. Steps and rough times:
 | 15 | AG News (downloads from Hugging Face) | `results\agnews\` | 1–2 h |
 | 21–22 | Download the Christmas tweets (21 MB), extract them to a raw CSV, then preprocess it into the 5,000-tweet dataset | `data\tweets_raw\`, `data\tweets\` | 1 min |
 | 23–24 | Check the emoji labels against reading (200 and 450 tweets) | `results\tweets\emoji_label_check_*.md` | seconds |
+| 26 | The author's own labels on 100 tweets vs the first reading and the emoji labels | `results\tweets\human_check_100.md` | seconds |
 | 25 | Christmas tweets: baseline vs EDA | `results\tweets\` | 20 min |
 | 16–17 | Score the saved LLM-judge judgements | `results\judge*\judge_summary.md` | seconds |
 | 20 | Summary figure | `results\fig_gain_by_size.pdf/.png` | seconds |

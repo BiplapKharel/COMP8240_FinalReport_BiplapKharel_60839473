@@ -27,6 +27,7 @@ code/
   extract_raw_tweets.py     tweets in the two R files -> one raw CSV (no cleaning)
   preprocess_tweets.py      raw tweets CSV -> cleaned, emoji-labelled 5,000-tweet dataset (+ build log)
   check_emoji_labels.py     emoji labels vs labels from reading the tweets (agreement, Cohen's kappa)
+  compare_human_reading.py  the author's own labels on 100 tweets vs the first reading and the emoji labels
   plot_gains.py             summary figure: EDA gain vs training size for all datasets
   make_judge_set.py         blind original/augmented items for the LLM judge
   llm_judge.py              judge prompt (+ optional Anthropic API runner) and scoring
@@ -86,6 +87,8 @@ python code/preprocess_tweets.py --raw data/tweets_raw/christmas_tweets_raw.csv 
   --n 5000 --n_test 1000 --n_dev 500 --outdir data/tweets
 python code/check_emoji_labels.py --hand data/tweets/label_check_200.csv \
   --out results/tweets/emoji_label_check_200.md
+python code/compare_human_reading.py --data data/tweets/human_check_100.csv \
+  --out results/tweets/human_check_100.md
 python code/run_eda_cnn.py split --name tweets --glove glove.6B.300d.txt \
   --train data/tweets/train.txt --val data/tweets/dev.txt --test data/tweets/test.txt \
   --sizes 500 2000 full --seeds 5 --max_len 40 --outdir results/tweets
@@ -132,6 +135,12 @@ Each experiment writes `results.csv` (one row per run), `table_results.md`
   set also held 125 items from a small Christmas survey that is no longer part of the project;
   those items were removed, so `results/judge/` keeps the original item IDs (with gaps) for SST-2 only.
   The prompt still mentions that survey because it is the exact prompt that was used.
+  The WNC judge used the same answer format (label plus 1-5 fluency) with biased (1) / neutral (0)
+  in place of positive / negative; its exact prompt wording was not saved. The rules used to read
+  the tweets for the emoji-label check are in the docstring of `code/check_emoji_labels.py`.
+* `data/tweets/human_check_100.csv` (and the original sheet `tweet_labels_by_Biplap.xlsx`) holds the
+  author's own labels for a random 100 of the 200 tweets, made independently with emoji hidden;
+  `first_reading` is the LLM's label for the same tweet.
 
 ## Licences and attribution
 
