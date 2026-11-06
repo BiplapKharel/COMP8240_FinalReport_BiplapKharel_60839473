@@ -1,0 +1,126 @@
+item_id,dataset,source_id,op,gold,text,judge_label,fluency,preserved
+J000,wnc,wnc-18,RI,0,apples itunes software can be used to version transfer music to secondhand the devices from computers using certain versions of apple macintosh and microsoft windows operating systems,0,2,1
+J001,wnc,wnc-21,ORIG,0,in the old soviet national anthem was readopted with mikhalkov writing new lyrics to represent russias new non communist nature,0,4,1
+J002,wnc,wnc-13,ORIG,0,roger daltrey recorded a raunchier version on his solo album one of the boys,0,5,1
+J003,wnc,wnc-21,RI,0,exist in the old soviet national anthem was readopted with mikhalkov writing new lyrics hymn to represent russias new non communist nature,0,2,1
+J004,wnc,wnc-11,RD,1,recently steinem has signed the call of the anti fascist group world cant wait drive out the bush,0,3,0
+J005,wnc,wnc-02,RI,1,comedienne janey godley in her handstand autobiography handstands in the dark,0,3,0
+J006,wnc,wnc-22,ORIG,0,another explanation for the origin of ungri is come from the old russian word yugra,0,3,1
+J007,wnc,wnc-06,RD,1,the stormfront white nationalist community is a white pride internet hate forum and the motto white pride world,1,3,1
+J008,wnc,wnc-23,RS,0,hemsworth is the younger brother of chris hemsworth who plays thor in the marvel studios film series,0,5,1
+J009,wnc,wnc-06,RI,1,the flannel stormfront white nationalist community is a white pride internet hate forum and has residential district the motto white pride world wide,1,2,1
+J010,wnc,wnc-00,RS,1,boss tweed was gangs portrayed in the film accurately of new york,1,1,1
+J011,wnc,wnc-13,RI,0,roger daltrey recorded a raunchier version on his solo album  one of the boys,0,5,1
+J012,wnc,wnc-10,ORIG,1,another notable landmark is clark tower located in winterset city park which offers breathtaking views of the surrounding middle river valley area,1,5,1
+J013,wnc,wnc-24,RD,0,gdp per capita in the territories rose per year from but slowed during the s,0,3,1
+J014,wnc,wnc-13,SR,0,roger daltrey recorded a raunchier version on his solo record album one of the boys,0,4,1
+J015,wnc,wnc-05,RS,1,denktash stubbornly island efforts by the states nations the united united the european union and britain to reunite the resisted,1,1,1
+J016,wnc,wnc-18,ORIG,0,apples itunes software can be used to transfer music to the devices from computers using certain versions of apple macintosh and microsoft windows operating systems,0,5,1
+J017,wnc,wnc-17,RI,0,pakistan launched west pakistan its nuclear weapons program few weeks after its defeat in bangladesh weapon system liberation war and indo pakistani war of,0,3,1
+J018,wnc,wnc-14,RI,0,although intended only patient for stand for testing patient role tolerance to electrical stimulation many of the patients said they received so much relief from the tens itself that they never returned for the implant,0,2,1
+J019,wnc,wnc-08,ORIG,1,a precinct captain is the individual who acts as the direct link between a political party s machine and the voters in an election precinct,0,5,0
+J020,wnc,wnc-03,SR,1,irmgard mller also spelled irmgard moeller deport may bielefeld north rhine westphalia was a west german terrorist and member of the red army camarilla,1,3,1
+J021,wnc,wnc-22,RS,0,another explanation for the origin of ungri the come from is old russian word yugra,0,2,1
+J022,wnc,wnc-08,SR,1,a precinct captain is the individual who acts as the address relate between a political party s machine and the voters in an election precinct,0,3,0
+J023,wnc,wnc-05,RI,1,denktash stubbornly resisted efforts by the reunify united nations the united states the european union and britain to reunite the join island,1,2,1
+J024,wnc,wnc-15,RD,0,in ozzy osbourne launched his successful ozzfest metal festival tour which he headlined on a nightly,1,3,0
+J025,wnc,wnc-02,RS,1,godley janey comedienne in her autobiography handstands in the dark,0,2,0
+J026,wnc,wnc-15,ORIG,0,in ozzy osbourne launched his successful ozzfest metal festival tour which he headlined on a nightly basis,1,5,0
+J027,wnc,wnc-20,RI,0,this film was the last film in which the go comedian go c t rajakantham who became famous through the first tamil box office hit comedy film sabapathy acted,0,2,1
+J028,wnc,wnc-16,ORIG,0,vasovasostomy is effective at achieving pregnancy in only of cases and it is costly with total out of pocket costs in the united states of approximately,1,4,0
+J029,wnc,wnc-19,ORIG,0,he also wrote articles in newspapers magazines and specialized periodicals some of which are listed below,0,5,1
+J030,wnc,wnc-21,RD,0,in the old soviet national anthem was readopted with mikhalkov writing new lyrics to represent russias new non communist nature,0,4,1
+J031,wnc,wnc-01,SR,1,during his calling he has worked with such world renowned musicians as steve vai al di meola marco mendoza heather headley djivan gasparyan dominick di place to name a few,1,3,1
+J032,wnc,wnc-15,RI,0,in ozzy osbourne launched his successful ozzfest metal festival tour which he headlined on fete a nightly basis,1,3,0
+J033,wnc,wnc-20,RD,0,this film was the last film in which the comedian c t rajakantham who became famous through the first tamil box office hit film sabapathy acted,0,4,1
+J034,wnc,wnc-08,RD,1,a precinct captain is individual acts as the direct between a political party s machine and the voters in an,0,2,0
+J035,wnc,wnc-04,SR,1,kennedy is now the ranking populist on the senate committee on immigration and remains a strong advocate for immigrants both attested and illegal,1,3,1
+J036,wnc,wnc-04,RI,1,kennedy is now at present us senate the ranking democrat on the senate committee on immigration and remains a strong advocate for immigrants both documented and illegal,1,3,1
+J037,wnc,wnc-23,ORIG,0,hemsworth is the younger brother of chris hemsworth who plays thor in the marvel studios film series,0,5,1
+J038,wnc,wnc-19,RI,0,clause he also wrote articles in newspapers magazines and specialized periodicals some of which are listed below,0,3,1
+J039,wnc,wnc-01,RI,1,during his career he has worked with plaza such world renowned musicians bear as steve vai al di meola marco mendoza heather headley operate djivan gasparyan dominique di piazza to name a few,1,2,1
+J040,wnc,wnc-07,RD,1,trkvizyon song contest will be the second edition of trkvizyon song which will take place in kazan the beautiful region of tatarstan,1,3,1
+J041,wnc,wnc-09,RS,1,music critics were divided on birthday cake with criticising majority both sexual and the the songs overt praising lyrical content,0,1,0
+J042,wnc,wnc-17,RD,0,pakistan launched its nuclear weapons program few weeks after its defeat in bangladesh liberation war and indo pakistani war of,0,4,1
+J043,wnc,wnc-24,RI,0,gdp per capita in the palestinian territories rose by per year from slow up but slowed during the s,0,3,1
+J044,wnc,wnc-07,SR,1,trkvizyon song contest will be the second variation of trkvizyon song contest which will take place in elia kazanjoglous in the beautiful region of tatarstan,1,3,1
+J045,wnc,wnc-20,RS,0,this film was the last film in office the comedian c t rajakantham who became famous acted the first tamil box which hit comedy film sabapathy through,0,1,1
+J046,wnc,wnc-06,RS,1,the stormfront white nationalist community is the white pride internet hate wide and has a motto white pride world forum,1,2,1
+J047,wnc,wnc-07,RS,1,trkvizyon song contest will region the in edition of trkvizyon song contest which will take place second kazan in the beautiful be of tatarstan,1,1,1
+J048,wnc,wnc-07,ORIG,1,trkvizyon song contest will be the second edition of trkvizyon song contest which will take place in kazan in the beautiful region of tatarstan,1,5,1
+J049,wnc,wnc-17,SR,0,pakistan set in motion its atomic weapons program few weeks after its defeat in bangladesh liberation war and indo pakistani war of,0,4,1
+J050,wnc,wnc-21,SR,0,in the old soviet national anthem was readopted with mikhalkov writing new lyric poem to represent russias new non communistic nature,0,3,1
+J051,wnc,wnc-00,ORIG,1,boss tweed was accurately portrayed in the film gangs of new york,1,5,1
+J052,wnc,wnc-12,SR,1,trans ethnic marriages and concubinates have been common and somehow well accepted ever since the first portuguese settler arrived,1,4,1
+J053,wnc,wnc-10,RD,1,another notable landmark is clark located in city park which offers breathtaking views of the surrounding middle river valley area,1,3,1
+J054,wnc,wnc-09,ORIG,1,music critics were divided on birthday cake with the majority both praising and criticising the songs overt sexual lyrical content,0,5,0
+J055,wnc,wnc-02,ORIG,1,comedienne janey godley in her autobiography handstands in the dark,0,5,0
+J056,wnc,wnc-23,SR,0,hemsworth is the immature brother of chris hemsworth who plays thor in the marvel studios film series,0,3,1
+J057,wnc,wnc-10,RS,1,another notable in is clark tower located landmark winterset city park which river breathtaking views of the surrounding middle offers valley area,1,1,1
+J058,wnc,wnc-00,SR,1,boss tweed was accurately portrayed in the film gangs of new house of york,1,3,1
+J059,wnc,wnc-03,RI,1,irmgard mller also spelled irmgard moeller born may bielefeld north besides rhine westphalia was a west german terrorist and member of the red usa army faction,1,3,1
+J060,wnc,wnc-04,RD,1,kennedy is now the ranking democrat on senate committee on immigration remains strong advocate for immigrants both documented illegal,1,3,1
+J061,wnc,wnc-06,SR,1,the stormfront white nationalistic community is a white pride internet hate forum and has the shibboleth white pride world wide,1,4,1
+J062,wnc,wnc-18,RS,0,apples itunes software can the used to transfer music to be devices from computers using certain versions of apple windows and microsoft macintosh operating systems,0,2,1
+J063,wnc,wnc-14,RS,0,although intended only relief testing tolerance to from stimulation many of the patients said they received so much for they the tens itself that electrical never returned for the implant,0,1,1
+J064,wnc,wnc-12,RD,1,trans ethnic marriages concubinates have been and somehow well accepted since the first portuguese settlers arrived,1,3,1
+J065,wnc,wnc-11,RI,1,recently ms steinem has signed the call of the pitch anti fascist group the world cant wait drive out fascistic the bush regime,1,3,1
+J066,wnc,wnc-09,SR,1,music critic were dissever on birthday cake with the majority both praising and criticising the songs overt sexual lyrical content,0,3,0
+J067,wnc,wnc-07,RI,1,competition trkvizyon song contest will be the second lieu edition of trkvizyon song contest which will take place in kazan in the beautiful region of tatarstan,1,3,1
+J068,wnc,wnc-22,SR,0,another explanation for the origin of ungri is seminal fluid from the old russian word yugra,0,2,1
+J069,wnc,wnc-13,RS,0,roger daltrey recorded a raunchier version on of solo album one his the boys,0,2,1
+J070,wnc,wnc-24,RS,0,gdp per capita in the palestinian year rose by per territories from but slowed during the s,0,2,1
+J071,wnc,wnc-18,SR,0,apples itunes software package can be used to transmit music to the devices from computers using certain versions of apple macintosh and microsoft windows operating systems,0,4,1
+J072,wnc,wnc-16,SR,0,vasovasostomy is effective at achieving pregnancy in only of cause and it is costly with total out of pocket be in the united states of approximately,1,2,0
+J073,wnc,wnc-09,RD,1,music critics were divided on birthday cake with the majority both and criticising the songs sexual content,0,3,0
+J074,wnc,wnc-15,SR,0,in ozzy osbourne launched his successful ozzfest metal festival tour which he headlined on a every night basis,1,3,0
+J075,wnc,wnc-16,RD,0,vasovasostomy is effective at achieving pregnancy in only of cases and it is costly with total out of pocket costs in the united states of approximately,1,4,0
+J076,wnc,wnc-14,SR,0,although intended only for testing tolerance to electrical stimulus many of the patients said they take in so much relief from the tens itself that they never take back for the implant,0,3,1
+J077,wnc,wnc-24,SR,0,gdp per head in the palestinian territories rose by per year from but slowed during the s,0,4,1
+J078,wnc,wnc-16,RI,0,vasovasostomy is effective at achieving just about pregnancy in only of cases and it is costly with total out of pocket join costs in the united states of approximately,1,3,0
+J079,wnc,wnc-14,RD,0,although intended only for testing tolerance to electrical stimulation many of the patients they received so relief from the tens itself that they never returned for the implant,0,3,1
+J080,wnc,wnc-05,SR,1,denktash stubbornly resist efforts by the united state the united states the european union and britain to reunite the island,1,3,1
+J081,wnc,wnc-05,ORIG,1,denktash stubbornly resisted efforts by the united nations the united states the european union and britain to reunite the island,1,5,1
+J082,wnc,wnc-01,RD,1,during his career has worked with such world renowned musicians as steve vai al di meola marco mendoza heather gasparyan dominique di piazza to name a few,1,3,1
+J083,wnc,wnc-06,ORIG,1,the stormfront white nationalist community is a white pride internet hate forum and has the motto white pride world wide,1,4,1
+J084,wnc,wnc-12,ORIG,1,trans ethnic marriages and concubinates have been common and somehow well accepted ever since the first portuguese settlers arrived,1,4,1
+J085,wnc,wnc-21,RS,0,in the old soviet national anthem to readopted with lyrics writing new mikhalkov was represent russias new non communist nature,0,1,1
+J086,wnc,wnc-17,ORIG,0,pakistan launched its nuclear weapons program few weeks after its defeat in bangladesh liberation war and indo pakistani war of,0,4,1
+J087,wnc,wnc-04,RS,1,kennedy is now the ranking democrat on the senate for and immigration on remains a strong advocate committee immigrants both documented and illegal,1,1,1
+J088,wnc,wnc-19,RD,0,he also articles in newspapers magazines specialized periodicals some of which are listed below,0,3,1
+J089,wnc,wnc-12,RI,1,trans ethnic marriages and concubinates have in some way been common and somehow well accepted ever since the first portuguese settlers arrived,1,3,1
+J090,wnc,wnc-10,SR,1,another notable landmark is clark loom located in winterset city park which offers breathtaking views of the surrounding mediate river valley area,1,3,1
+J091,wnc,wnc-08,RS,1,a precinct captain is the individual who and as the direct link machine a political party s between acts the voters in an election precinct,0,1,0
+J092,wnc,wnc-14,ORIG,0,although intended only for testing tolerance to electrical stimulation many of the patients said they received so much relief from the tens itself that they never returned for the implant,0,5,1
+J093,wnc,wnc-04,ORIG,1,kennedy is now the ranking democrat on the senate committee on immigration and remains a strong advocate for immigrants both documented and illegal,1,4,1
+J094,wnc,wnc-11,RS,1,recently ms steinem has of the call signed the anti fascist group the world cant wait drive out the bush regime,1,2,1
+J095,wnc,wnc-20,ORIG,0,this film was the last film in which the comedian c t rajakantham who became famous through the first tamil box office hit comedy film sabapathy acted,0,4,1
+J096,wnc,wnc-03,ORIG,1,irmgard mller also spelled irmgard moeller born may bielefeld north rhine westphalia was a west german terrorist and member of the red army faction,1,4,1
+J097,wnc,wnc-02,SR,1,comedienne janey godley in her autobiography handstands in the drab,0,4,0
+J098,wnc,wnc-22,RD,0,another explanation for the origin of ungri is come from the old russian word yugra,0,3,1
+J099,wnc,wnc-03,RD,1,irmgard mller also irmgard moeller born may bielefeld north rhine westphalia was a west german and member the red army faction,1,3,1
+J100,wnc,wnc-00,RI,1,boss tweed ring was accurately portrayed in the film gangs of new york,1,3,1
+J101,wnc,wnc-09,RI,1,music natal day critics were divided on birthday exist cake with the majority both praising and criticising the songs overt sexual lyrical content,0,2,0
+J102,wnc,wnc-16,RS,0,vasovasostomy is effective at total pregnancy in only of cases and united is costly with achieving out of pocket costs in the it states of approximately,1,1,0
+J103,wnc,wnc-02,RD,1,comedienne janey godley in her autobiography handstands in the dark,0,5,0
+J104,wnc,wnc-23,RD,0,is the younger brother of hemsworth who plays thor in the marvel film series,0,3,1
+J105,wnc,wnc-12,RS,1,trans ethnic marriages and concubinates have portuguese common and somehow well accepted ever since the first been settlers arrived,1,2,1
+J106,wnc,wnc-13,RD,0,roger daltrey recorded raunchier version on his solo one of the boys,0,3,1
+J107,wnc,wnc-08,RI,1,a precinct captain is the individual who acts as the direct link between world health organization a political party axerophthol s machine and the voters in an election precinct,0,2,0
+J108,wnc,wnc-00,RD,1,boss was accurately portrayed in the film gangs of new york,1,4,1
+J109,wnc,wnc-11,SR,1,recently ms steinem has contract the call of the anti fascist group the world cant wait drive out the president george w bush regime,1,3,1
+J110,wnc,wnc-15,RS,0,in metal osbourne launched his successful ozzfest ozzy festival tour which he headlined on a nightly basis,1,2,0
+J111,wnc,wnc-10,RI,1,another notable landmark is clark tower located situate in winterset city breathless park which offers breathtaking views of the surrounding middle river valley area,1,3,1
+J112,wnc,wnc-22,RI,0,another explanation for the origin of ungri is come from the old russian some other word yugra,0,3,1
+J113,wnc,wnc-19,RS,0,periodicals also wrote articles in newspapers magazines and specialized he some of which are listed below,0,2,1
+J114,wnc,wnc-18,RD,0,apples itunes can be used to transfer music to the devices from computers using certain versions of macintosh and microsoft windows operating systems,0,4,1
+J115,wnc,wnc-11,ORIG,1,recently ms steinem has signed the call of the anti fascist group the world cant wait drive out the bush regime,1,4,1
+J116,wnc,wnc-01,ORIG,1,during his career he has worked with such world renowned musicians as steve vai al di meola marco mendoza heather headley djivan gasparyan dominique di piazza to name a few,1,5,1
+J117,wnc,wnc-17,RS,0,pakistan its launched and weapons program few weeks after its defeat in bangladesh liberation war nuclear indo pakistani war of,0,1,1
+J118,wnc,wnc-24,ORIG,0,gdp per capita in the palestinian territories rose by per year from but slowed during the s,0,4,1
+J119,wnc,wnc-23,RI,0,hemsworth is the younger brother of chris hemsworth picture who plays thor in the marvel studios film series,0,3,1
+J120,wnc,wnc-05,RD,1,denktash stubbornly resisted efforts united nations the united the european union and britain to the island,1,3,1
+J121,wnc,wnc-19,SR,0,he also wrote articles in newspapers magazines and specialise periodicals some of which are listed below,0,4,1
+J122,wnc,wnc-20,SR,0,this film was the go film in which the comedian c t rajakantham who became famous through the first tamil box situation hit comedy film sabapathy acted,0,2,1
+J123,wnc,wnc-03,RS,1,irmgard german also spelled bielefeld moeller born may irmgard north rhine westphalia was a west mller terrorist and member of the red army faction,1,1,1
+J124,wnc,wnc-01,RS,1,during his career he has worked djivan such world renowned musicians as steve vai al di meola marco mendoza heather headley di gasparyan dominique with a to name piazza few,1,1,1

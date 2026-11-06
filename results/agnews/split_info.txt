@@ -1,0 +1,8 @@
+train pool: 117600
+validation: 2400 (early stopping)
+test (official): 7600
+split_seed: 42
+val_frac: 0.02
+sizes: ['500', '2000', '5000']
+seeds: 5
+max_len: 100

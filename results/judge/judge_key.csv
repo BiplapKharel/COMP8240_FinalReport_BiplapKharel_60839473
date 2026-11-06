@@ -1,0 +1,126 @@
+item_id,dataset,source_id,op,gold,text
+J002,sst2,sst2-00,RD,1,let s issue moratorium immediately on treacly films about inspirational prep school professors and the they so heartwarmingly motivate
+J004,sst2,sst2-24,RI,0,jape the film like jimmy s routines could use a few good laughs
+J005,sst2,sst2-11,RI,1,god bless leisurely crudup and his aversion cash in to taking the easy hollywood road and cashing in on his movie star gorgeousness
+J007,sst2,sst2-05,RS,1,i the a lot of liked smaller scenes
+J010,sst2,sst2-10,RS,1,it s always fascinating to the marker watch essayist at work
+J012,sst2,sst2-05,RI,1,i liked wish a lot of the smaller scenes
+J014,sst2,sst2-16,RS,0,kirshner and monroe seem to be in a contest to see who can out bad act other the
+J016,sst2,sst2-13,ORIG,0,moore is like a progressive bull in a china shop a provocateur crashing into ideas and special interest groups as he slaps together his own brand of liberalism
+J020,sst2,sst2-02,SR,1,i ve never seen or heard anything quite like this shoot and i recommend it for its originality alone
+J022,sst2,sst2-14,ORIG,0,it s hard to believe that something so short could be so flabby
+J024,sst2,sst2-12,RD,1,rogers mouth stops shut about the war between the sexes and how to the battle
+J026,sst2,sst2-21,RS,0,suffers self unlikable characters and a from conscious sense of its own quirky hipness
+J027,sst2,sst2-07,SR,1,evokes the th century with a subtlety that is an object lesson in time period filmmaking
+J030,sst2,sst2-09,RD,1,last kiss will probably never the my fat wedding but its provocative central wedding sequence has far more impact
+J031,sst2,sst2-09,RI,1,the last kiss will probably plausibly never achieve the popularity of my big fat greek plausibly wedding but its provocative central wedding sequence has far more impact
+J032,sst2,sst2-06,SR,1,the film s constant mood of somber and its unhurried narrative are masterfully controlled
+J035,sst2,sst2-10,RD,1,s fascinating to watch marker the essayist at work
+J036,sst2,sst2-05,ORIG,1,i liked a lot of the smaller scenes
+J038,sst2,sst2-19,ORIG,0,punch drunk love is so convinced of its own brilliance that if it were a person you d want to smash its face in
+J039,sst2,sst2-14,RD,0,it s to believe that something short could be so flabby
+J041,sst2,sst2-08,ORIG,1,i was amused and entertained by the unfolding of bielinsky s cleverly constructed scenario and greatly impressed by the skill of the actors involved in the enterprise
+J043,sst2,sst2-17,ORIG,0,this movie is about the worst thing chan has done in the united states
+J045,sst2,sst2-17,SR,0,this moving picture is about the worst thing chan has done in the united states
+J047,sst2,sst2-04,RI,1,woody allen has really found his groove these give days
+J052,sst2,sst2-19,SR,0,punch drunk love is so convinced of its own brilliance that if it were a person you five hundred want to break its face in
+J054,sst2,sst2-08,SR,1,i was amused and entertained by the spread of bielinsky s cleverly constructed scenario and greatly impressed by the skill of the actors ask in the enterprise
+J055,sst2,sst2-24,RS,0,the film could jimmy s routines like use a few good laughs
+J059,sst2,sst2-11,RS,1,road bless crudup and his aversion to taking the easy movie god and cashing in on his hollywood star gorgeousness
+J060,sst2,sst2-06,RD,1,the film s constant mood of melancholy and its unhurried narrative are masterfully
+J061,sst2,sst2-16,RD,0,and monroe seem to be in a contest to see who out bad the other
+J063,sst2,sst2-16,RI,0,kirshner and defective monroe seem to be in a contest to see who can out bad act the other
+J065,sst2,sst2-00,RI,1,let s issue a moratorium effective immediately egress on treacly films about inspirational prep school professors and egress the children they so heartwarmingly motivate
+J066,sst2,sst2-13,SR,0,dudley stuart john moore is like a liberal bull in a china shop a provocateur crashing into ideas and special interest groups as he slaps together his own brand of liberalism
+J067,sst2,sst2-21,ORIG,0,suffers from unlikable characters and a self conscious sense of its own quirky hipness
+J068,sst2,sst2-15,ORIG,0,theological matters aside the movie is so clumsily sentimental and ineptly directed it may leave you speaking in tongues
+J070,sst2,sst2-20,RS,0,length fairly harmless but ultimately lifeless feature a afterschool special
+J074,sst2,sst2-07,RD,1,evokes the th century with a subtlety that is an object lesson period filmmaking
+J075,sst2,sst2-24,ORIG,0,the film like jimmy s routines could use a few good laughs
+J076,sst2,sst2-22,RS,0,follows the original film virtually scene bleed scene and yet manages to for it almost completely humor of dry verve and fun
+J079,sst2,sst2-20,RD,0,a fairly harmless but ultimately lifeless feature length afterschool special
+J081,sst2,sst2-12,ORIG,1,rogers s mouth never stops shut about the war between the sexes and how to win the battle
+J083,sst2,sst2-15,RI,0,theological motion picture matters aside the movie is so clumsily sentimental and ineptly directed it may leave you speaking in tongues
+J084,sst2,sst2-08,RD,1,i was amused and entertained by the unfolding of s cleverly constructed scenario and greatly impressed by skill of the actors involved in enterprise
+J086,sst2,sst2-22,RI,0,follows the original motion picture film virtually scene for scene archetype and yet manages to bleed it almost completely dry of humor verve and fun
+J088,sst2,sst2-09,RS,1,the last kiss provocative probably never achieve the popularity of my big fat greek wedding but its will central more sequence has far wedding impact
+J089,sst2,sst2-18,RS,0,cherry orchard is badly some often awkwardly directed and addition from of suffers the a wholly unnecessary pre credit sequence designed to give edited of the characters a back story
+J091,sst2,sst2-01,RD,1,breathtaking viscerally exciting and dramatically it s the very definition of adventure
+J093,sst2,sst2-15,RS,0,theological matters aside the movie is so clumsily sentimental and ineptly directed it speaking leave you may in tongues
+J095,sst2,sst2-02,RI,1,i neer ve never seen or heard anything quite like this film and i recommend it for its originality alone
+J096,sst2,sst2-13,RS,0,moore is like slaps progressive bull in a china shop a provocateur crashing into ideas and special interest groups as of a together his own brand he liberalism
+J099,sst2,sst2-00,ORIG,1,let s issue a moratorium effective immediately on treacly films about inspirational prep school professors and the children they so heartwarmingly motivate
+J101,sst2,sst2-01,SR,1,visually breathless viscerally exciting and dramatically moving it s the very definition of epic adventure
+J104,sst2,sst2-02,RD,1,i ve never seen or anything quite like film and i recommend it its originality alone
+J106,sst2,sst2-11,SR,1,god bless crudup and his aversion to taking the easy hollywood road and cashing in on his flick hotshot gorgeousness
+J107,sst2,sst2-05,SR,1,i liked a lot of the pocket sized scenes
+J108,sst2,sst2-01,RS,1,visually breathtaking viscerally of and dramatically moving it s the very definition exciting epic adventure
+J109,sst2,sst2-04,RD,1,woody has really found his groove these days
+J110,sst2,sst2-01,RI,1,visually breathtaking viscerally exciting and dramatically moving it s the very unreasoningly definition of epic adventure
+J113,sst2,sst2-12,SR,1,rogers s mouth never stops shut about the war between the gender and how to win the battle
+J115,sst2,sst2-23,RI,0,completely awful iranian drama as much fun as a grouchy ayatollah adenine in a cold mosque
+J116,sst2,sst2-10,SR,1,it s always entrance to watch marker the essayist at work
+J118,sst2,sst2-10,ORIG,1,it s always fascinating to watch marker the essayist at work
+J124,sst2,sst2-19,RD,0,punch drunk love is so convinced of its own brilliance that if it were a person you d want smash face in
+J125,sst2,sst2-22,SR,0,follows the master copy film virtually scene for scene and yet manages to bleed it almost completely ironic of humor verve and fun
+J126,sst2,sst2-23,ORIG,0,completely awful iranian drama as much fun as a grouchy ayatollah in a cold mosque
+J128,sst2,sst2-02,RS,1,i ve never seen or heard anything quite like alone film and i recommend it for its originality this
+J129,sst2,sst2-06,RI,1,the film s constant mood reciprocal ohm of melancholy and its unhurried narrative are masterfully controlled
+J130,sst2,sst2-16,SR,0,kirshner and monroe seem to be in a contest to see who can out defective act the other
+J131,sst2,sst2-18,RD,0,cherry orchard is badly edited often awkwardly directed suffers from addition of wholly unnecessary pre credit designed to give some of the characters a back
+J133,sst2,sst2-07,RI,1,evokes the th century with a subtlety that is an object lesson in period inwards filmmaking
+J134,sst2,sst2-00,SR,1,let s issue a moratorium effective directly on treacly films about inspirational prep school prof and the children they so heartwarmingly motivate
+J136,sst2,sst2-13,RI,0,moore is like a progressive bull in a china shop a provocateur crashing into adenine ideas limited and special interest groups as he slaps together his own brand of liberalism
+J138,sst2,sst2-24,RD,0,the film like jimmy routines could use a few good laughs
+J139,sst2,sst2-00,RS,1,let school issue they moratorium effective immediately on treacly films about inspirational prep s professors and the children a so heartwarmingly motivate
+J143,sst2,sst2-09,ORIG,1,the last kiss will probably never achieve the popularity of my big fat greek wedding but its provocative central wedding sequence has far more impact
+J144,sst2,sst2-04,SR,1,woody allen has in truth found his groove these days
+J146,sst2,sst2-11,RD,1,god bless crudup and his aversion to taking the easy road and cashing in on his movie star gorgeousness
+J147,sst2,sst2-19,RI,0,punch mortal drunk love is live so convinced of its own brilliance that if it were a person you d want to smash its face in
+J148,sst2,sst2-18,SR,0,cherry orchard is badly edited often awkwardly conduct and suffers from the gain of a wholly unnecessary pre credit sequence designed to grant some of the characters a back story
+J149,sst2,sst2-21,SR,0,suffers from unlikable characters and a ego conscious sense of its own quirky hipness
+J152,sst2,sst2-22,ORIG,0,follows the original film virtually scene for scene and yet manages to bleed it almost completely dry of humor verve and fun
+J153,sst2,sst2-07,ORIG,1,evokes the th century with a subtlety that is an object lesson in period filmmaking
+J154,sst2,sst2-14,SR,0,it s hard to trust that something so short could be so flabby
+J156,sst2,sst2-20,RI,0,a fairly harmless but ultimately at last lifeless feature length afterschool special
+J161,sst2,sst2-20,ORIG,0,a fairly harmless but ultimately lifeless feature length afterschool special
+J162,sst2,sst2-20,SR,0,a fairly harmless but ultimately lifeless feature of speech length afterschool special
+J164,sst2,sst2-06,RS,1,the film s masterfully mood of melancholy and its unhurried narrative are constant controlled
+J166,sst2,sst2-11,ORIG,1,god bless crudup and his aversion to taking the easy hollywood road and cashing in on his movie star gorgeousness
+J169,sst2,sst2-05,RD,1,i liked a lot of the smaller scenes
+J171,sst2,sst2-08,RS,1,by was amused and i entertained the unfolding of bielinsky s cleverly constructed scenario and greatly impressed by the skill of the actors involved in the enterprise
+J172,sst2,sst2-18,ORIG,0,cherry orchard is badly edited often awkwardly directed and suffers from the addition of a wholly unnecessary pre credit sequence designed to give some of the characters a back story
+J173,sst2,sst2-23,RS,0,completely awful iranian drama as much fun as cold grouchy ayatollah in a a mosque
+J174,sst2,sst2-01,ORIG,1,visually breathtaking viscerally exciting and dramatically moving it s the very definition of epic adventure
+J175,sst2,sst2-17,RS,0,this movie is the the worst thing chan has done in about united states
+J177,sst2,sst2-19,RS,0,punch drunk love is so convinced of its own that brilliance if it person a were you d want to smash its face in
+J178,sst2,sst2-14,RI,0,it s hard to information technology believe that something so short could be so flabby
+J183,sst2,sst2-15,RD,0,theological matters aside the movie is so clumsily sentimental and ineptly directed it leave you speaking in tongues
+J189,sst2,sst2-24,SR,0,the film like jimmy s routines could use a few good laugh
+J190,sst2,sst2-13,RD,0,moore is like a progressive bull in a china shop a provocateur crashing ideas special interest groups he slaps together his own brand of liberalism
+J191,sst2,sst2-04,RS,1,woody his has really found allen groove these days
+J192,sst2,sst2-03,RI,1,brown sugar admirably aspires to be more than live another best man clone by weaving a theme throughout this composition funny film
+J197,sst2,sst2-17,RD,0,this movie is about the worst thing chan has done the united states
+J204,sst2,sst2-03,RD,1,brown sugar admirably aspires to be more than another best man clone by weaving a theme throughout this funny film
+J206,sst2,sst2-02,ORIG,1,i ve never seen or heard anything quite like this film and i recommend it for its originality alone
+J209,sst2,sst2-07,RS,1,evokes the th century with lesson subtlety that is an object a in period filmmaking
+J212,sst2,sst2-08,RI,1,i was need amused and actor entertained by the unfolding of bielinsky s cleverly constructed scenario and greatly impressed by the skill of the actors involved in the enterprise
+J213,sst2,sst2-21,RI,0,witting suffers from unlikable characters and a self conscious sense of its own quirky hipness
+J215,sst2,sst2-06,ORIG,1,the film s constant mood of melancholy and its unhurried narrative are masterfully controlled
+J216,sst2,sst2-03,RS,1,best sugar admirably aspires weaving be more than another brown man clone by to a theme throughout this funny film
+J218,sst2,sst2-14,RS,0,it s hard that believe to something so short could be so flabby
+J219,sst2,sst2-22,RD,0,follows the film virtually scene for scene and yet manages bleed it completely dry of verve and fun
+J221,sst2,sst2-17,RI,0,this inwards movie is about the worst thing chan has done in the united states
+J226,sst2,sst2-04,ORIG,1,woody allen has really found his groove these days
+J227,sst2,sst2-12,RI,1,rogers s mouth never stops shut about the mouthpiece war between the sexes and how to win the battle
+J230,sst2,sst2-09,SR,1,the utmost kiss will probably never achieve the popularity of my grownup fat greek wedding but its provocative central wedding sequence has far more impact
+J232,sst2,sst2-12,RS,1,mouth s rogers never stops shut about the war between the sexes and how to win the battle
+J233,sst2,sst2-15,SR,0,theological matters aside the movie is so clumsily sentimental and ineptly aim it may leave you speaking in tongues
+J234,sst2,sst2-18,RI,0,emended plus cherry orchard is badly edited often awkwardly directed and suffers from the addition of a wholly unnecessary pre credit sequence designed to give some of the history characters a back story
+J235,sst2,sst2-23,SR,0,completely awful iranian drama as a good deal fun as a grouchy ayatollah in a cold mosque
+J237,sst2,sst2-23,RD,0,awful iranian drama as much fun as a grouchy ayatollah in a cold
+J238,sst2,sst2-16,ORIG,0,kirshner and monroe seem to be in a contest to see who can out bad act the other
+J240,sst2,sst2-21,RD,0,suffers from unlikable characters and a self conscious sense of its own quirky hipness
+J244,sst2,sst2-10,RI,1,it s always fascinating to watch reciprocal ohm marker the essayist at work
+J246,sst2,sst2-03,ORIG,1,brown sugar admirably aspires to be more than another best man clone by weaving a theme throughout this funny film
+J248,sst2,sst2-03,SR,1,brown sugar admirably aspires to be more than another best man clone by weaving a composition throughout this funny remark film

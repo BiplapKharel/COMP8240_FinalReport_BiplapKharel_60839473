@@ -1,0 +1,10 @@
+tensorflow>=2.15
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+nltk
+rdata           # reads the R files of the Christmas tweets
+datasets        # only for AG News download
+anthropic       # optional, only for llm_judge.py judge
